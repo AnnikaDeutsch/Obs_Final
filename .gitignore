@@ -3,3 +3,4 @@ kaia_data/
 raw_data_download/
 *.fits
 *.fit
+dbl_final.ipynb
